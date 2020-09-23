@@ -1,0 +1,19 @@
+    1.24.40} Prepare Image
+TSSTcorp CD/DVDW TS-L632DSuper Link activated
+Generating relocation information
+Checking discs
+Waiting for a particular media type: CD-R/RW
+Sorry, your compilation cannot be written on this kind of disc. Please insert a disc of the correct type or modify the settings of your compilation to make them compatible with the current disc.
+Done waiting for CD.
+Waiting for a particular media type: CD-R/RW
+Sorry, your compilation cannot be written on this kind of disc. Please insert a disc of the correct type or modify the settings of your compilation to make them compatible with the current disc.
+Abort Pressed!
+
+
+Done waiting for CD.
+Windows XP 5.1IA32WinAspi: -NT-SPTI usedNero API version: 9.0.9.100Using interface version: 8.0.1.1Installed in: C:\Programmi\Nero\Nero 9\Nero Burning ROM\Application: Nero - Burning Rom\neroInternal Version: 9, 0, 9, 100Recorder:             <TSSTcorp CD/DVDW TS-L632D>Version: HH15 - HA 1 TA 0 - 9.0.9.100 Adapter driver:      <IDE>                     HA 1 Drive buffer  :      2048kB Bus Type      :      default=== Scsi-Device-Map ===DiskPeripheral       : WDC WD600UE-22KVT0               atapi Port 0 ID 0  DMA: On CdRomPeripheral      : TSSTcorp CD/DVDW TS-L632D        atapi Port 0 ID 1  DMA: Off=== CDRom-Device-Map ===TSSTcorp CD/DVDW TS-L632D  E:   CdRom0Toshiba USB 2.0 CD-ROM     G:   CdRom1=======================AutoRun : 1Excluded drive IDs: WriteBufferSize: 83886080 (0) ByteBUFE           : 0Physical memory     : 1015MB (1039728kB)Free physical memory: 376MB (385820kB)Memory in use       : 62 %Uncached PFiles: 0x0Use Inquiry    : 1Global Bus Type: default (0)Check supported media : Disabled (0) 20.3.2009NeroAPI1.24.32	#1 Text 0 File SCSIPTICommands.cpp, Line 450	LockMCN - completed sucessfully for IOCTL_STORAGE_MCN_CONTROL	1.24.32	#2 Text 0 File Burncd.cpp, Line 3233	TSSTcorp CD/DVDW TS-L632D	Super Link activated	1.24.33	#3 IMAGEGEN -10 File ImageGen.cpp, Line 449	Image was written as DAO.	MTYP: Mediumtype =  CD (old format) (0x1)	Image file name: <C:\Documents and Settings\Salvo Cortesiano.PC145957172216\Desktop\Files Enum v1\CD Tracker\VB\VB Nero Write\YBC.nrg>	1.24.33	#4 Text 0 File Burncd.cpp, Line 3563	Turn on Disc-At-Once, using CD-R/RW media	1.24.40	#5 Text 0 File DlgWaitCD.cpp, Line 312	Disc check failed: Medium not allowed (Wrong CD)	1.24.40	#6 Text 0 File DlgWaitCD.cpp, Line 324	Write in overburning mode: NO	1.24.40	#7 Text 0 File DlgWaitCD.cpp, Line 2951	Recorder: TSSTcorp CD/DVDW TS-L632D	 Medium not present	1.24.40	#8 Text 0 File DlgWaitCD.cpp, Line 499	>>> Protocol of DlgWaitCD activities: <<<	=========================================	Compilation cannot be written on that medium type.		(Medium in drive: DVD+RW. Medium required by compilation: CD-R/RW.)	1.24.40	#9 Text 0 File SCSIPTICommands.cpp, Line 450	UnLockMCN - completed sucessfully for IOCTL_STORAGE_MCN_CONTROL	Existing drivers:Registry Keys:HKLM\Software\Microsoft\Windows NT\CurrentVersion\WinLogon\AllocateCDROMs : 0 (Security Option)
+Burn not finished successfully: 6
+Burn not finished successfully: 6
+
+    
+    
